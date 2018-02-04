@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nearby Venues</string>
+    <string name="nearby_location">Nearby Location</string>
+    <string name="venue_name">Venue Name</string>
+    <string name="search_btn">Search</string>
+</resources>
